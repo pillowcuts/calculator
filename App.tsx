@@ -13,7 +13,6 @@ export default function App() {
    
 
     <SafeAreaView style={theme === 'light' ? styles.container : [styles.container, {backgroundColor: myColors.drkPurple}]}>
-      <Text>afdfgfhds</Text>
       <StatusBar style="auto"/>
 
       <Switch
